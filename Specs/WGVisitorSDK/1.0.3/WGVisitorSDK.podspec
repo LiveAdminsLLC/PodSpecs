@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.3"
   s.summary      = "Liveadmins VisitorPanel library for iOS"
   s.homepage     = "https://liveadmins.com"
-  s.author       = { "LPMObile" => "zaigham.maqsood@liveadmins.com" }
+  s.author       = { "WG" => "zaigham.maqsood@liveadmins.com" }
 
 
 
